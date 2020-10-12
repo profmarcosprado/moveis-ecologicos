@@ -9,5 +9,6 @@ li {
 	font-family: monospace;
 }
 h1 {
-	font-family: calibri;
+	font-family: arial;
+	vertical-align: middle;
 }
