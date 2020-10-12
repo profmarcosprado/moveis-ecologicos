@@ -4,10 +4,17 @@ body {
 }
 h1 {
 	font-family: sans-serif;
+	text-align:center;
+	color: #FFF222;
 }
 li {
 	font-family: monospace;
+	color: #ff4000;
 }
 h3 {
 	font-family: calibri;
+	text-align:center;
+	color: #CCC;
 }
+
+font-size:18px;   
